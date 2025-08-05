@@ -32,7 +32,15 @@
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
   --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+/* 🎨 Colores corporativos Nexun */
+--nexun-violet: #410099;
+--nexun-magenta: #AA004F;
+--nexun-orange: #FF4713;
+--nexun-yellow: #FF9015;
+--nexun-purple: #76236C;
+--nexun-red: #CF3339;
+--nexun-orange-light: #FF671D; }
 
 *,
 *::before,
